@@ -65,6 +65,10 @@ describe('loops', () => {
     })
   })
 })
-function forLoop(array){
-  
+function forLoop(array){    
+    array.push(
+    for (var i = 0; i < 25; i++) {
+    if i = 1 console.log("I am ${i} strange loop.")
+    else console.log("I am ${i} strange loops.")
+  })
 }
