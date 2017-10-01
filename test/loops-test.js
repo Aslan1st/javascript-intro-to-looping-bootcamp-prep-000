@@ -65,3 +65,6 @@ describe('loops', () => {
     })
   })
 })
+function forLoop(array){
+  
+}
