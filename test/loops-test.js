@@ -65,6 +65,8 @@ describe('loops', () => {
     })
   })
 })
+
+
 function forLoop(array){
    for ( i = 1; i < 26; i++){
      if (i == 1){
